@@ -1,2 +1,2 @@
 # Digital-elektronics-1
-**No dobre
+**No dobre**
