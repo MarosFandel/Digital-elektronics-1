@@ -6,7 +6,7 @@
 
    Greater than:
 
-   ![K-maps](images/kmap_empty1.png)
+   ![K-maps](images/Untitled.png)
 
    Less than:
 
